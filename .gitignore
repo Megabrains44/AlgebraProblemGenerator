@@ -1,0 +1,5 @@
+setup.py
+MANIFEST.in
+CHANGELOG.txt
+dist/
+algebraMathGenerator.egg-info/
