@@ -1,6 +1,16 @@
 Algebra generator that can easily create algebra equations in the Ax + b = C format. It can also solve equations in Ax + b = C. Right now, only the operations, '-' and '+' are supported
 
 # Getting Started
+
+You can install the module via pip:
+
+`pip install algebraMathGenerator`
+
+You can also clone the github like this:
+
+`git clone https://github.com/Megabrains44/AlgebraProblemGenerator.git`
+
+# Examples
 The following is an example of how to create a algebra math equation. The `algebraMathGenerator.generateAlgebraEquation()` will return a class, so you can get the equation by adding a `.equation` after it.
 
 
