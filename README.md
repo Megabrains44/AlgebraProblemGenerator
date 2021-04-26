@@ -52,7 +52,7 @@ You can even loop through the generate method to produce a bunch of equations an
 
 Returns `class` object
 
-### Function: `.solveAlgebraEquation(equation : class)`
+### Function: `.solveAlgebraEquation(equation : algebraMathGenerator.generateAlgebraEquation())`
 Input should be of type `.generateAlgebraEquation()`
 
 Returns `float` value
